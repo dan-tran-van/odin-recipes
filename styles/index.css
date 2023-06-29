@@ -7,11 +7,15 @@ h1 {
     text-align: center;
 }
 
-a, li {
+a {
     color: yellowgreen;
 }
 
 img {
     width: 30vw;
     height: auto;
+}
+
+li {
+    color: white;
 }

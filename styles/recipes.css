@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: orange;
+}
+
+p,
+li {
+    color: white;
+}
+
+h2 {
+    color: yellowgreen;
+}
+
+img {
+    width: 40vw;
+    height: auto;
+}
